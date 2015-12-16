@@ -112,6 +112,7 @@ private LocationManager mLocationManager;
 	 }
 	};
 
+	private void jijfajid(){}
 
 //	判断当前是否开启GPS
 	private boolean gpsIsOpen()
